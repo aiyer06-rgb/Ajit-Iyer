@@ -24,13 +24,14 @@ Icons/Images: Custom static assets for a personalized brand feel.
 
 #3 Project Structure
 Plaintext
-├── app.py              # Main Flask application (routes & logic)
-├── templates/          # HTML files
-│   ├── home.html       # Landing page
-│   ├── about.html      # Professional background
-│   ├── skills.html     # Technical and creative skills
-│   └── contact.html    # Contact form section
-└── static/             # Images, CSS, and other assets
+app.py              # Main Flask application (routes & logic)
+templates/          # HTML files
+home.html           # Landing page
+about.html          # Professional background
+skills.html         # Technical and creative skills
+contact.html        # Contact form section
+static/             # Images, CSS, and other assets
+
 #4 Installation & Setup
 To run this project locally, follow these steps:
 
